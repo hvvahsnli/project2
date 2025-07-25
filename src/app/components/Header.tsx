@@ -5,7 +5,7 @@ import { FiSearch, FiMenu, FiX, FiShoppingCart } from "react-icons/fi";
 import Image from "next/image";
 import Link from "next/link";
 import CartSidebar from "@/app/components/categories/CartSidebar";
-import { useCart } from "@/app/components/categories/CartContext"; // CartContext yolunu özünə uyğun düzəlt
+import { useCart } from "@/app/components/categories/CartContext";
 
 export default function Header() {
     const [menuOpen, setMenuOpen] = useState(false);
