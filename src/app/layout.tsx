@@ -2,7 +2,7 @@ import "./globals.css";
 import { Poppins } from "next/font/google";
 import type { Metadata } from "next";
 import { CartProvider } from "@/app/components/categories/CartContext";
-import CartSidebar from "@/app/components/categories/CartSidebar"
+import Head from "next/head";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -22,6 +22,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <body className={`${poppins.variable} font-sans antialiased bg-white text-black`}>
         <CartProvider>
           {children}
