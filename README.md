@@ -15,22 +15,16 @@
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/your-username/book-zone.git
-cd book-zone
-```
+git clone https://github.com/hvvahsnli/project2.git
+cd project2
 
 2. **Install dependencies:**
 
-```bash
 npm install
-```
 
 3. **Run the development server:**
 
-```bash
 npm run dev
-```
 
 ## 📌 Key Features
 
