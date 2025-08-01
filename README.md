@@ -16,6 +16,7 @@
 1. **Clone the repository:**
 
 git clone https://github.com/hvvahsnli/project2.git
+
 cd project2
 
 2. **Install dependencies:**
@@ -45,5 +46,3 @@ You can contribute by creating pull requests. Fork the repository and make your 
 
 
 **Created by:** [Hevva Heseneliyeva](https://github.com/your-hvvahsnli)
-
-> "Book Zone – Your favorite book is just one click away."
