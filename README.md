@@ -15,17 +15,17 @@
 
 1. **Clone the repository:**
 
-git clone https://github.com/hvvahsnli/project2.git
+  git clone https://github.com/hvvahsnli/project2.git
 
-cd project2
+  cd project2
 
 2. **Install dependencies:**
 
-npm install
+  npm install
 
 3. **Run the development server:**
 
-npm run dev
+  npm run dev
 
 ## 📌 Key Features
 
@@ -45,4 +45,3 @@ npm run dev
 You can contribute by creating pull requests. Fork the repository and make your changes.
 
 
-**Created by:** [Hevva Heseneliyeva](https://github.com/your-hvvahsnli)
