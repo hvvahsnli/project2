@@ -19,23 +19,6 @@
 * **Tailwind CSS**
 * **Context API** – For cart management
 
-
-## 🛠️ Setup & Run
-
-1. **Clone the repository:**
-
-  git clone https://github.com/hvvahsnli/project2.git
-
-  cd project2
-
-2. **Install dependencies:**
-
-  npm install
-
-3. **Run the development server:**
-
-  npm run dev
-
 ## 📌 Key Features
 
 * 🛒 **Cart Functionality:** When "Add to Cart" is clicked, the book is added to the cart. If it's already in the cart, the quantity increases.
@@ -52,5 +35,18 @@
 ## 🤝 Contributing
 
 You can contribute by creating pull requests. Fork the repository and make your changes.
+## ⚙️ Getting Started
+
+* git clone https://github.com/hvvahsnli/project2.git
+* cd project1
+* npm install
+* npm run dev
+  
+* 👩‍💻 Author
+Developed by Heseneliyeva Hevva
+
+GitHub: @hvvahsnli
+Instagram: @hhsnlii
+Email: hvvahsnliyeva@gmail.com
 
 
