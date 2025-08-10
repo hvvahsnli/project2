@@ -42,7 +42,7 @@ You can contribute by creating pull requests. Fork the repository and make your 
 * npm install
 * npm run dev
   
-* 👩‍💻 Author
+👩‍💻 Author
 Developed by Heseneliyeva Hevva
 
 GitHub: @hvvahsnli
