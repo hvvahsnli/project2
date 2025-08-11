@@ -40,7 +40,6 @@ export default function Categories() {
     const router = useRouter();
 
     const handleCategoryClick = (category: string) => {
-        // Bu hissədə hash ilə yönləndiririk
         router.push(`/categories#${category.toLowerCase()}`);
     };
 
